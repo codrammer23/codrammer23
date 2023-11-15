@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codrammer23
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on freeCodeCamp
+- 👀 I’m interested in Web3 development and Dapps
+- 🌱 I’m currently learning JavaScript and Blockchain developing
+- 💞️ I’m looking to collaborate on freeCodeCamp and linkedIn
 - 📫 How to reach me @emmanuelkitui23@gmail.com, +2540722782474
 
 <!---
